@@ -1,0 +1,120 @@
+{
+    
+    "about":{
+        "welcome":"BIENVENUE À JR PLUS ENTREPRISE MULTISERVICES, S.R.L",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt utet dolore magna aliqua. Ut enim ad minim veniam",
+        "title":"Un Peu Plus Sur Nous",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniamlorem",
+        "img": "image.jpg"
+    },
+
+    "services":{
+        "title":"SERVICES OFFERTS",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt utet dolore magna aliqua. Ut enim ad minim veniam",
+        "service1":{
+            "subtitle":"RECHERCHE DE DOCUMENTS EN HAITI",
+            "data_services":[
+                {"service":"PASSEPORTS"},
+                {"service":"ACTE DE NAISSANCES"},
+                {"service":"ACTE DE DIVORCES"},
+                {"service":"ACTE DE MARIAGES"},
+                {"service":"EXTRAIT D’ARCHIVES"},
+                {"service":"JUGEMENT DE DOCUMENTS"},
+                {"service":"PERMIS DE CONDUIRES HAITIANS"},
+                {"service":"ANNULATION DE DOCUMENTS"}
+            ]
+        },
+
+        "service2":{
+            "subtitle":"SERVICES LEGALES",
+            "data_services":[
+                {"service":"APOSTILLE"},
+                {"service":"PAPIER NOTARIES"},
+                {"service":"LEGALISATION HAITI / REPUBLIQUE DOMINICAINE"},
+                {"service":"TRADUCTION LEGALES"},
+                {"service":"CERTIFICAT DE CELIBAT"},
+                {"service":"AUTORISATION DE SORTIE POUR MINEURS"}
+            ]
+        },
+
+        "service3":{
+            "subtitle":"SERVICES MIGRATOIRES",
+            "data_services":[
+                {"service":"CONSEILS EN MATIERE D’IMMIGRATION"},
+                {"service":"PROCEDURE DE VISA: USA / CANADA / SHENGENG / MEXIQUE"},
+                {"service":"RESIDENCES REPUBLIQUE DOMINICAINE"},
+                {"service":"RENOUVELLEMENTS PERMIS DE TRAVAIL RD"}
+            ]
+        },
+
+        "service4":{
+            "subtitle":"SERVICES TOURISTIQUES",
+            "data_services":[
+                {"service":"RESERVATION HOTELS ET RESORTS"},
+                {"service":"AIRBNB"},
+                {"service":"VENTE DE BILLET D’AVION"},
+                {"service":"EXCURSIONS"}
+            ]
+        },
+
+        "service5":{
+            "subtitle":"AUTRES SERVICES",
+            "data_services":[
+                {"service":"PERMIS DE CONDUIRES INTERNATIONALS"}
+            ]
+        }
+    },
+
+    "galery":{
+        "title": "NOS TRAVAUX",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt utet dolore magna aliqua. Ut enim ad minim veniam",
+        "imgs":[
+            {"img": "image.jpg"},
+            {"img": "image.jpg"},
+            {"img": "image.jpg"},
+            {"img": "image.jpg"},
+            {"img": "image.jpg"},
+            {"img": "image.jpg"},
+            {"img": "image.jpg"},
+            {"img": "image.jpg"}
+        ]
+    },
+
+    "coments":{
+        "title":"TESTIMONY",
+        "coments":[
+            {
+                "name":"Emilio Pierre",
+                "img":"entrega1.jpeg",
+                "coment":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam" 
+            },
+            {
+                "name":"Emilio Pierre",
+                "img":"entrega1.jpeg",
+                "coment":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam" 
+            },
+            {
+                "name":"Emilio Pierre",
+                "img":"entrega1.jpeg",
+                "coment":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam" 
+            }
+        ]
+    },
+
+    "contacts":{
+        "address":[
+            {"address":"Santo Domingo Este Las Ameriacas los frailes 1ro plaza D'pronto"},
+            {"address":"Santo Domingo Este Las Ameriacas los frailes 1ro plaza D'pronto"}
+        ],
+
+        "emails":[
+            {"email": "email@gmail.com"}
+        ],
+
+        "phones":[
+            {"phone":"392-173-9843"},
+            {"phone":"392-173-9843"}
+        ]
+    }
+
+}
