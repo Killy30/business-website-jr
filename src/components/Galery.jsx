@@ -22,12 +22,12 @@ function Galery({ galery }){
             intersectionObserver.observe(element)
         })
     },[])
-    
+
     return(
         <div className="container padg_container">
             <div className="box_titles">
                 <h2 className="text-center fw-bold">{galery?.title}</h2>
-                <div>
+                <div className="card_text_subtitle">
                     <p className="text-center text-secondary fs-5">{galery?.description}</p>
                 </div>
             </div>

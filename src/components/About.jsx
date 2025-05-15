@@ -5,7 +5,7 @@ function About({ about }){
         <div className="container padg_container">
             <div className="box_titles">
                 <h2 className="text-center">{about?.welcome}</h2>
-                <div className="card_description">
+                <div className="card_text_subtitle">
                     <p className="text-center text-secondary fs-5">{about?.description}</p>
                 </div>
             </div>

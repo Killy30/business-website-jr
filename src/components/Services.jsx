@@ -29,7 +29,7 @@ function Services({ services }){
         <div className="container padg_container">
             <div className="mb-5 header_services box_titles">
                 <h2 className="text-center fw-bold">{services?.title}</h2>
-                <div className="">
+                <div className="card_text_subtitle">
                     <p className="text-center fs-5">{services?.description}</p>
                 </div>
             </div>

@@ -5,7 +5,7 @@
         "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt utet dolore magna aliqua. Ut enim ad minim veniam",
         "title":"Un Peu Plus Sur Nous",
         "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniamlorem",
-        "img": "image.jpg"
+        "img": "image2.jpg"
     },
 
     "services":{
@@ -69,14 +69,14 @@
         "title": "NOS TRAVAUX",
         "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt utet dolore magna aliqua. Ut enim ad minim veniam",
         "imgs":[
-            {"img": "image.jpg"},
-            {"img": "image.jpg"},
-            {"img": "image.jpg"},
-            {"img": "image.jpg"},
-            {"img": "image.jpg"},
-            {"img": "image.jpg"},
-            {"img": "image.jpg"},
-            {"img": "image.jpg"}
+            {"img": "img1.jpg"},
+            {"img": "img2.jpg"},
+            {"img": "img3.jpg"},
+            {"img": "img4.jpg"},
+            {"img": "img5.jpg"},
+            {"img": "img6.jpg"},
+            {"img": "img7.jpg"},
+            {"img": "img8.jpeg"}
         ]
     },
 
@@ -85,17 +85,17 @@
         "coments":[
             {
                 "name":"Emilio Pierre",
-                "img":"entrega1.jpeg",
+                "img":"client1.jpg",
                 "coment":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam" 
             },
             {
                 "name":"Emilio Pierre",
-                "img":"entrega1.jpeg",
+                "img":"client2.jpg",
                 "coment":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam" 
             },
             {
                 "name":"Emilio Pierre",
-                "img":"entrega1.jpeg",
+                "img":"client3.jpeg",
                 "coment":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam" 
             }
         ]
