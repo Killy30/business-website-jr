@@ -78,18 +78,15 @@
 }
 
 .text_head p {
-    font-size: clamp(1rem, calc(2vw + 1rem), 1.2rem);
+    font-size: clamp(0.8rem, calc(1vw + 0.7rem), 1.2rem);
     font-weight: 500;
     color: #dfdfdf;
     text-align: center;
     margin: 15px 7rem;
-    /* text-shadow: -0.5px -0.5px 0 #fff, 0.5px -0.5px 0 #fff, -0.5px 0.5px 0 #fff, 0.5px 0.5px 0 #fff; */
-    /* -webkit-text-stroke: 2px #f10404; */
-    /* background-color: #fd0404; */
     padding: 10px;
 }
 
-.text_head .btn_aply{
+.text_head .btn_aply {
     display: flex;
     justify-content: center;
 }
@@ -496,6 +493,25 @@
 }
 
 @media (max-width: 770px) {
+    .text_head {
+        padding: 1rem;
+    }
+
+    .text_head h1 {
+        margin: 0rem;
+    }
+
+    .text_head div {
+        width: 95%;
+    }
+
+    .text_head p {
+        /* font-size: clamp(0.8rem, calc(1vw + 1rem), 1.2rem); */
+        font-weight: 500;
+        margin: 15px 0rem;
+        padding: 0px;
+    }
+
     .box_coments {
         grid-template-columns: repeat(1, 1fr);
         gap: 15px;
