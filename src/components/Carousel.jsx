@@ -1,3 +1,4 @@
+import BtnAply from "./BtnAply"
 
 
 function Carousel() {
@@ -45,7 +46,15 @@ function Carousel() {
                 <span className="visually-hidden">Next</span>
             </button> */}
             <div className="text_head">
-                <h1>JR PLUS ENTREPRISE MULTISERVICES SRL</h1>
+                <div className="text_head_title">
+                    <h1>JR PLUS ENTREPRISE MULTISERVICES SRL</h1>
+                </div>
+                <div className="text_head_description">
+                    <p>Sit amet consectetur adipisicing elit. soluta eligendi  id, itaque, sint dolore tenetur dolorum aperiam error inventore, minus nemo tempore odio neque et!</p>
+                </div>
+                <div className="btn_aply text-center">
+                    <BtnAply/>
+                </div>
             </div>
             <div className="header_img">
                 <img src={'../../imgs/ft_head2.jpg'} alt="" />
